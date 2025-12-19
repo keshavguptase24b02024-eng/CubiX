@@ -1,7 +1,7 @@
 # Rubiks-cube-solver
 Rubik's Cube Solver in C++
 
-A Rubik's Cube solver implemented in C++ that supports multiple cube representations and solving algorithms. It demonstrates search strategies and pattern database heuristics for solving a 3x3 cube efficiently.
+A Rubik's Cube solver implemented in C++ that supports multiple cube representations and solving algorithms. It demonstrates search strategies and pattern database heuristics for solving a 3x3x3 cube efficiently.
 
 ---
 
