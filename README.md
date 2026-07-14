@@ -9,9 +9,7 @@ A Rubik's Cube solver implemented in C++ that supports multiple cube representat
 
 ### Cube Representations
 - 3D array
-  - 1D array
-  - Bitboard
-
+- 1D array
 ### Solving Algorithms
 - Breadth-First Search (BFS)
   - Depth-First Search (DFS)
